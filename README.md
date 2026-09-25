@@ -100,9 +100,6 @@ Open AI learning platform for schools. Teacher control, session privacy, school-
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Janus5G&show_icons=true&hide_border=true&title_color=A5B4FC&icon_color=22D3EE&text_color=E2E8F0&bg_color=070B14&ring_color=7C5CFF" alt="GitHub stats" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janus5G&layout=compact&hide_border=true&title_color=A5B4FC&text_color=E2E8F0&bg_color=070B14" alt="Top languages" height="160">
-
 </div>
 
 ---
