@@ -73,7 +73,15 @@ Open AI learning platform for schools. Teacher control, session privacy, school-
 
 ### Vision & Roadmap
 
-**ChromaNeural / Chromaplex ecosystem** — a forward-compatible stack that runs on current CPU/GPU hardware while the optical datapath and spectral storage layer are designed in parallel.
+<p><img src="https://img.shields.io/badge/1%20%7C%200%20rail-6E7681?style=for-the-badge&labelColor=0B1220&color=6E7681" alt="1-0 rail"> <img src="https://img.shields.io/badge/five%20colour%20channels-22D3EE?style=for-the-badge&labelColor=0B1220&color=22D3EE" alt="five colour channels"> <img src="https://img.shields.io/badge/Vision%20%26%20Roadmap-F5C14A?style=for-the-badge&labelColor=0B1220&color=F5C14A" alt="Vision & Roadmap"></p>
+
+<img src="https://raw.githubusercontent.com/Janus5G/.github/main/vision-roadmap.png" alt="Off the 1-0 rail" width="150" align="right">
+
+The inherited computer is a two-state wire: **1** or **0**, then the next bit, then the next. That is the von Neumann neck — sequential tokens, linear tensors, one rail for every thought. It works. It also caps the machine.
+
+**ChromaNeural / Chromaplex** is the path off that rail. A forward-compatible stack that already runs on current CPU/GPU hardware while the optical datapath and spectral storage layer are designed in parallel. Five colour channels, spatial layers, and one software path from editor to compiler to OS — patterns instead of a single-file of bits.
+
+<br clear="all">
 
 The aim is to move past sequential token streams and linear tensor steps toward multidimensional pattern processing: five colour channels, spatial layers, and a software path that stays consistent from editor to compiler to OS.
 
