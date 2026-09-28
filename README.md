@@ -18,8 +18,6 @@ Open work on optical datapath, spectral storage and the compilers that sit on to
 
 ### Focus
 
-<img src="https://img.shields.io/badge/Focus-7C5CFF?style=for-the-badge&labelColor=0B1220&color=7C5CFF" alt="">
-
 <table>
 <tr>
 <td width="20%" valign="top">
@@ -80,7 +78,7 @@ Open AI learning platform for schools. Teacher control, session privacy, school-
 <img src="https://img.shields.io/badge/five%20colour%20channels-22D3EE?style=for-the-badge&labelColor=0B1220&color=22D3EE" alt="five colour channels">
 
 <div align="center">
-<img src="assets/vision-roadmap.jpg" alt="Off the 1–0 rail — five-channel datapath, not a two-state wire" width="380">
+<img src="https://raw.githubusercontent.com/Janus5G/.github/main/SDrJh.jpg" alt="Off the 1–0 rail — five-channel datapath, not a two-state wire" width="380">
 </div>
 
 <br>
@@ -149,8 +147,6 @@ ChromaNeural is built as a seamless path: software that works today, hardware th
 
 ### Repositories
 
-<img src="https://img.shields.io/badge/Repositories-3B82F6?style=for-the-badge&labelColor=0B1220&color=3B82F6" alt="">
-
 | | Project | Role |
 | :---: | --- | --- |
 | <img src="https://img.shields.io/badge/·-7C5CFF?style=flat-square"> | [PRISME](https://github.com/Janus5G/PRISME) | Spectral storage, error checking, archival glass medium |
@@ -168,8 +164,6 @@ ChromaNeural is built as a seamless path: software that works today, hardware th
 <div align="center">
 
 ### Stack
-
-<img src="https://img.shields.io/badge/Stack-34D399?style=for-the-badge&labelColor=0B1220&color=34D399" alt="">
 
 <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=22D3EE" alt="Python">
 <img src="https://img.shields.io/badge/Rust-0B1220?style=flat-square&logo=rust&logoColor=E8EEF7" alt="Rust">
