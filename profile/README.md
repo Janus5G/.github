@@ -75,7 +75,7 @@ Open AI learning platform for schools. Teacher control, session privacy, school-
 
 <p><img src="https://img.shields.io/badge/1%20%7C%200%20rail-6E7681?style=for-the-badge&labelColor=0B1220&color=6E7681" alt="1-0 rail"> <img src="https://img.shields.io/badge/five%20colour%20channels-22D3EE?style=for-the-badge&labelColor=0B1220&color=22D3EE" alt="five colour channels"> <img src="https://img.shields.io/badge/Vision%20%26%20Roadmap-F5C14A?style=for-the-badge&labelColor=0B1220&color=F5C14A" alt="Vision & Roadmap"></p>
 
-<img src="https://raw.githubusercontent.com/Janus5G/.github/main/vision-roadmap.png" alt="Off the 1-0 rail" width="120" align="right">
+<img src="https://raw.githubusercontent.com/Janus5G/.github/main/vision-roadmap.png" alt="Off the 1-0 rail" width="110" align="right">
 
 The inherited computer is a two-state wire: **1** or **0**, then the next bit, then the next. That is the von Neumann neck — sequential tokens, linear tensors, one rail for every thought. It works. It also caps the machine.
 
