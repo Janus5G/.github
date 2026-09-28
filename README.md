@@ -18,6 +18,8 @@ Open work on optical datapath, spectral storage and the compilers that sit on to
 
 ### Focus
 
+<img src="https://img.shields.io/badge/Focus-7C5CFF?style=for-the-badge&labelColor=0B1220&color=7C5CFF" alt="">
+
 <table>
 <tr>
 <td width="20%" valign="top">
@@ -71,7 +73,83 @@ Open AI learning platform for schools. Teacher control, session privacy, school-
 
 ---
 
+### Vision & Roadmap
+
+<img src="https://img.shields.io/badge/Vision%20%26%20Roadmap-F5C14A?style=for-the-badge&labelColor=0B1220&color=F5C14A" alt="">
+<img src="https://img.shields.io/badge/1%20%7C%200%20rail-8B949E?style=for-the-badge&labelColor=0B1220&color=6E7681" alt="1-0 rail">
+<img src="https://img.shields.io/badge/five%20colour%20channels-22D3EE?style=for-the-badge&labelColor=0B1220&color=22D3EE" alt="five colour channels">
+
+<div align="center">
+<img src="assets/vision-roadmap.jpg" alt="Off the 1–0 rail — five-channel datapath, not a two-state wire" width="380">
+</div>
+
+<br>
+
+The inherited computer is a two-state wire: **1** or **0**, then the next bit, then the next. That is the von Neumann neck — sequential tokens, linear tensors, one rail for every thought. It works. It also caps the machine.
+
+**ChromaNeural / Chromaplex** is the path off that rail. A forward-compatible stack that already runs on current CPU/GPU hardware while the optical datapath and spectral storage layer are designed in parallel. Five colour channels, spatial layers, and one software path from editor to compiler to OS — patterns instead of a single-file of bits.
+
+<table>
+<tr>
+<td width="20%" valign="top">
+
+**Now**
+
+</td>
+<td>
+
+Core neural and software components are implemented and tested on current-generation CPU/GPU machines. Logical structures follow the Chromaplex model; the physical layer is still emulated. No custom FPGA, LPU or optical hardware has been verified yet.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Target**
+
+</td>
+<td>
+
+Custom hardware in design and blueprint: Lattice ECP5-45F FPGA PCB, dedicated LPU processors, and optical interconnects as the physical unlock for full theoretical performance.
+
+</td>
+</tr>
+</table>
+
+#### From linear binary to multidimensional patterns
+
+Current architectures are bound by sequential tokenisation and linear tensor work. PRISME (including the binary extension) treats data as light-patterns across five colour channels and spatial layers. On legacy hardware this is emulated; the same logic is intended to map onto the optical medium without rewriting the stack.
+
+#### Hardware plasticity — Lattice FPGA and LPU
+
+The proposed board uses a Lattice ECP5-45F FPGA rather than a fixed ASIC.
+
+- **Physical self-optimisation** — design intent: once the FPGA path exists, the system should be able to redesign its own logical gates at runtime to cut latency. Not implemented in silicon.
+- **LPU integration** — blueprint only: a dedicated Language Processing Unit to remove tokenisation overhead.
+- **Projected gains (software only)** — **3×** GPU efficiency and **8×** LPU throughput are software-side estimates from tests and modelling on existing CPU/GPU hardware. They are **not hardware-verified**. Target silicon, optical interconnects and fused-silica storage remain in design.
+
+#### Full-stack path: Cplex → compiler → ChromaOS
+
+| Layer | Role |
+| --- | --- |
+| **Cplex** | High-level language for multidimensional operations |
+| **Chromaplex compiler** | Turns Cplex abstractions into PRISME patterns — same logic on legacy silicon or target FPGA |
+| **ChromaOS** | OS tuned for neural collaboration. Node-to-node AI communication is implemented and software-verified; the future optical hardware layer remains separate and is not yet physically verified. |
+
+#### Physical layer ahead — optics and fused silica
+
+Blueprints include a move off electrical interconnects to cut interference and wear:
+
+- **Ultra-low latency buffers** — optical fibre spools between GPUs, with UV real-time error correction.
+- **Fused silica storage** — five-dimensional nanostructures in quartz glass for long-lived persistence and high optical bandwidth.
+
+ChromaNeural is built as a seamless path: software that works today, hardware that can evolve with the compute model rather than lock it to a rigid ISA.
+
+---
+
 ### Repositories
+
+<img src="https://img.shields.io/badge/Repositories-3B82F6?style=for-the-badge&labelColor=0B1220&color=3B82F6" alt="">
 
 | | Project | Role |
 | :---: | --- | --- |
@@ -90,6 +168,8 @@ Open AI learning platform for schools. Teacher control, session privacy, school-
 <div align="center">
 
 ### Stack
+
+<img src="https://img.shields.io/badge/Stack-34D399?style=for-the-badge&labelColor=0B1220&color=34D399" alt="">
 
 <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=22D3EE" alt="Python">
 <img src="https://img.shields.io/badge/Rust-0B1220?style=flat-square&logo=rust&logoColor=E8EEF7" alt="Rust">
