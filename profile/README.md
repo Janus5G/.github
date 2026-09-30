@@ -16,7 +16,7 @@ Open work on optical datapath, spectral storage and the compilers that sit on to
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-architecture.svg" alt="Architecture at a glance" width="100%"></h2>
+## Architecture at a glance
 
 ```text
 CPL source                               Brainfuck source
