@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Janus — optical datapath, spectral storage, open toolchains" width="100%">
+<img src="banner.svg" alt="Janus — optical datapath, spectral storage, open toolchains" width="100%">
 
 <br>
 
