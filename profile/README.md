@@ -140,7 +140,7 @@ This extension is separate from PRISME's spectral mapping and is not a mandatory
 | Colour-symbol encoding for inter-node messages | **Verified** |
 | Symbol verification and error detection in transit | **Verified** |
 
-**ChromaNeural** is the broader distributed problem-solving layer built on ChromaSpeechAI communication. It orchestrates divided work across multiple nodes, combines partial results, and applies verification before publishing complete work to shared knowledge.
+**ChromaNeural** is the broader distributed problem-solving layer being developed on top of ChromaSpeechAI communication. Its target workflow divides work across multiple nodes, combines partial results, verifies completed work, and enables verified results to become reusable shared knowledge.
 
 | Capability | Verified status |
 | --- | --- |
