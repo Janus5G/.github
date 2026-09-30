@@ -16,7 +16,7 @@ Open work on optical datapath, spectral storage and the compilers that sit on to
 
 ---
 
-## Architecture at a glance
+<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-architecture.svg" alt="Architecture at a glance" width="100%"></h2>
 
 ```text
 CPL source                               Brainfuck source
@@ -58,7 +58,7 @@ CPA — ChromaPlex Assembly  ◄────────────────
 
 ---
 
-## ChromaPlex — the foundation
+<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-chromaplex.svg" alt="ChromaPlex — the foundation" width="100%"></h2>
 
 [**ChromaPlex OS**](https://github.com/Janus5G/chromaplex-os) is an experimental language and simulation stack for colour-channel, voxel-addressed data structures and lossless exponent–remainder number representation.
 
@@ -90,7 +90,7 @@ Cplex is development tooling around ChromaPlex; it is not the language foundatio
 
 ---
 
-## From ChromaPlex to PRISME
+<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-prisme.svg" alt="From ChromaPlex to PRISME" width="100%"></h2>
 
 [**PRISME**](https://github.com/Janus5G/PRISME) carries the colour-channel direction into a five-channel spectral byte mapping.
 
@@ -117,7 +117,7 @@ The supplied validation reports support the software mapping and verification be
 
 ---
 
-## One foundation — multiple directions
+<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-directions.svg" alt="One foundation — multiple directions" width="100%"></h2>
 
 ### Conventional-system interoperability
 
@@ -168,7 +168,7 @@ It does **not** yet support claims of physically verified optical storage, FPGA 
 
 ---
 
-## Engineering status
+<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-status.svg" alt="Engineering status" width="100%"></h2>
 
 | Capability | Status |
 | --- | --- |
@@ -195,7 +195,7 @@ It does **not** yet support claims of physically verified optical storage, FPGA 
 
 ---
 
-## Project map
+<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-project-map.svg" alt="Project map" width="100%"></h2>
 
 ### Foundation
 
