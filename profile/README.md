@@ -151,15 +151,8 @@ This extension is separate from PRISME's spectral mapping and is not a mandatory
 | Optical lamp-and-camera communication | Physical distinction of shades, timing, UV/control readout, BER and throughput remain to be measured |
 | Fewer repeat queries and lower data/energy costs | Hypotheses to benchmark, not established general savings |
 
-### Dedicated physical direction
+### Hardware removed until finished completely ready for production - with base module - 4 expansion cards and areana link for e-sport.
 
-Three public, separate Q8 hardware projects provide engineering material and software models. **None is a fabricated, physically verified optical computing system.**
-
-- [**Q8 Hybrid Optical Hardware v0.2.1**](https://github.com/Janus5G/Q8-Hybrid-Optical-Hardware-v0.2.1) — classical 256-vertex Q8 graph, MZI/FPGA research references and an [interactive mathematical demo](https://janus5g.github.io/Q8-Hybrid-Optical-Hardware-v0.2.1/interactive/index.html). **Fabrication HOLD**: nominal source dimensions **360 × 260 × 116 mm** versus STL bounding box **348 × 250 × 116 mm** ([documented CAD check](https://github.com/Janus5G/Q8-Hybrid-Optical-Hardware-v0.2.1/blob/main/docs/CAD_CHECKS.md)).
-- [**Q8 Optical DIY Maker RevA**](https://github.com/Janus5G/Q8-Optical-DIY-Maker-RevA) — ESP32-S3-based optical/motion research reference with CAD files, firmware protected by disabled actuation defaults and a [GitHub Pages project site](https://janus5g.github.io/Q8-Optical-DIY-Maker-RevA/website/). Physical safety and dimensional fit need independent review.
-- [**Q8 Modular Base RevC RC1.2**](https://github.com/Janus5G/Q8_Modular_Base_RevC_RC1.2_GitHub_Desktop) — a **300 × 180 mm, four-layer motherboard concept** with Lattice FPGA, ESP32-S3, four reserved expansion interfaces, reference SystemVerilog, engineering BOM, [website](https://janus5g.github.io/Q8_Modular_Base_RevC_RC1.2_GitHub_Desktop/website/) and [interactive software demo](https://janus5g.github.io/Q8_Modular_Base_RevC_RC1.2_GitHub_Desktop/demo/). Follow its [live software CI](https://github.com/Janus5G/Q8_Modular_Base_RevC_RC1.2_GitHub_Desktop/actions/workflows/revc-ci.yml); FPGA timing and physical measurements remain pending.
-
-Datacenter optical-delay hardware, GPU/e-sport expansion, ArenaLink-8 and fiber-coil winding machines are distinct future directions; they are **not** finished or validated RevC plug-in modules. The Q8 projects carry **limited research/evaluation licenses**, not unrestricted OSI open-source hardware licenses.
 
 ### Independent projects — learning, Linux and accessible development
 
