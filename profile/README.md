@@ -164,11 +164,6 @@ These projects were built to address different real-world problems. They belong 
 
 A separate **custom Linux** and industrial device-programming direction is being developed to combine source-language tools, verification and deployment. Its proposed Raspberry Pi/ESP32/Arduino targets are not claimed to have been production-validated.
 
-
----
-
-<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-status.svg" alt="Engineering status" width="100%"></h2>
-
 ---
 
 <h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-project-map.svg" alt="Project map" width="100%"></h2>
