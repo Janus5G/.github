@@ -204,11 +204,7 @@ A separate **custom Linux** and industrial device-programming direction is being
 - [**PRISME**](https://github.com/Janus5G/PRISME) — spectral byte mapping and optical research.
 - [**PRISME Binary Extension**](https://github.com/Janus5G/PRISME-Binary-Extension) — experimental binary packaging for existing systems.
 
-### Optical and modular hardware research
-
-- [**Q8 Hybrid Optical Hardware v0.2.1**](https://github.com/Janus5G/Q8-Hybrid-Optical-Hardware-v0.2.1) — Q8/MZI models; mechanical fabrication HOLD.
-- [**Q8 Optical DIY Maker RevA**](https://github.com/Janus5G/Q8-Optical-DIY-Maker-RevA) — maker-oriented optical and motion hardware reference.
-- [**Q8 Modular Base RevC RC1.2**](https://github.com/Janus5G/Q8_Modular_Base_RevC_RC1.2_GitHub_Desktop) — FPGA-controlled modular motherboard concept.
+### Hardware removed until finished completely
 
 ### Distributed AI, education and developer tools
 
