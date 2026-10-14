@@ -33,7 +33,6 @@ Other projects emerged from quite different problems. **ChromaLearn** addresses 
 | Beginner-friendly GitHub tools | [Project Pusher2](https://github.com/Janus5G/project-pusher2) |
 | Programming languages and optical research | [ChromaPlex OS](https://github.com/Janus5G/chromaplex-os) · [PRISME](https://github.com/Janus5G/PRISME) |
 | Distributed AI collaboration | [ChromaNeural](https://github.com/Janus5G/ChromaNeural) |
-| Hardware research | [Q8 Modular Base RevC](https://github.com/Janus5G/Q8_Modular_Base_RevC_RC1.2_GitHub_Desktop) |
 
 ---
 
@@ -167,32 +166,6 @@ A separate **custom Linux** and industrial device-programming direction is being
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-status.svg" alt="Engineering status" width="100%"></h2>
-
-| Capability | Evidence-based status |
-| --- | --- |
-| Documented CPL subset, CPA assembler and CrystalSimulator | Implemented in software |
-| Brainfuck → CPA adapter | Implemented |
-| Separate simple-CPL → bytecode → VM route | Implemented legacy software path |
-| Cplex Rust/Slint editor and Python bridge | Implemented developer tooling |
-| ChromaPlex OS v2 57-facet/multi-crystal architecture | Software model; physical storage unverified |
-| PRISME one-byte R/G/B/V mapping and UV single-channel checks | Reproducible software model |
-| PRISME Binary Extension | Separate experimental packaging format |
-| Reed–Solomon / UV optical ECC | Reference calculations; physical operation unverified |
-| Automatic CPL/CPA → FPGA → optical storage chain | **Not verified end-to-end** |
-| ChromaSpeechAI optical lamp-to-camera link | **Physical verification pending** |
-| ChromaNeural public release | RC4 withdrawn; RC5 forthcoming per public README |
-| Cubic-4-inspired distributed work and knowledge reuse | In development |
-| Q8 hardware source/reference models | Published with software test evidence |
-| Q8 Hybrid dimensional fit | **HOLD: CAD/STL mismatch** |
-| Q8 physical BER, timings and power savings | **Not physically verified** |
-| ChromaLearn | Public 0.4.5 evaluation; v2 in development |
-| ChromaPress | Public 1.0.0a72 alpha; documented VM live-ISO verification |
-| Project Pusher2 | Documented v1.1.0 and release-workflow support |
-| ChromaPlex Coding Agent | Public v0.4.0 alpha; real hardware testing pending |
-
----
-
 <h2><img src="https://raw.githubusercontent.com/Janus5G/.github/main/profile/section-project-map.svg" alt="Project map" width="100%"></h2>
 
 ### ChromaPlex, compilers and spectral research
@@ -204,7 +177,8 @@ A separate **custom Linux** and industrial device-programming direction is being
 - [**PRISME**](https://github.com/Janus5G/PRISME) — spectral byte mapping and optical research.
 - [**PRISME Binary Extension**](https://github.com/Janus5G/PRISME-Binary-Extension) — experimental binary packaging for existing systems.
 
-### Hardware removed until finished completely
+### Hardware in the owen - with base module - 4 expansion cards and areana link for e-sport. 
+Sorry for inconvenience but complications on the first release.
 
 ### Distributed AI, education and developer tools
 
